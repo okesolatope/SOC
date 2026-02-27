@@ -1,6 +1,6 @@
 # Operation AgroDefend – SOC in a Segmented Network
 
-## 📌 Project Overview
+##  Project Overview
 
 Operation AgroDefend is a hands-on Security Operations Center (SOC) simulation project designed to demonstrate enterprise-grade threat detection, network segmentation, and centralized log monitoring within a controlled lab environment.
 
@@ -8,7 +8,7 @@ This project replicates a real-world business scenario for an agricultural techn
 
 ---
 
-## 🏗️ Lab Architecture
+##  Lab Architecture
 
 The environment was built using the following technologies:
 
@@ -32,7 +32,7 @@ Firewall rules were configured to restrict lateral movement between LAN and DMZ 
 
 ---
 
-## 🔍 SOC Deployment
+##  SOC Deployment
 
 ### Wazuh Implementation
 
@@ -45,7 +45,7 @@ Firewall rules were configured to restrict lateral movement between LAN and DMZ 
 
 ---
 
-## 🛠️ Reconnaissance & Attack Simulation
+##  Reconnaissance & Attack Simulation
 
 ### Network Discovery
 
@@ -68,7 +68,7 @@ All attacks were conducted in a controlled lab environment for defensive securit
 
 ---
 
-## 🚨 Detection & Findings
+##  Detection & Findings
 
 Wazuh successfully detected:
 
@@ -82,14 +82,14 @@ Segmentation controls successfully prevented lateral movement into the LAN envir
 
 ---
 
-## 🧠 MITRE ATT&CK Mapping
+##  MITRE ATT&CK Mapping
 
 - **T1110 – Brute Force**
 - Potential risk of **Valid Accounts abuse** if credentials were compromised
 
 ---
 
-## 🔐 Security Recommendations
+##  Security Recommendations
 
 - Enforce strong password policies
 - Implement account lockout after **4 failed login attempts**
@@ -100,7 +100,7 @@ Segmentation controls successfully prevented lateral movement into the LAN envir
 
 ---
 
-## 📊 Skills Demonstrated
+##  Skills Demonstrated
 
 - Network segmentation design
 - Firewall configuration (pfSense)
@@ -112,7 +112,7 @@ Segmentation controls successfully prevented lateral movement into the LAN envir
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 This project demonstrates how combining network segmentation, firewall enforcement, and centralized SIEM monitoring significantly improves enterprise threat visibility and incident response readiness.
 
@@ -120,7 +120,7 @@ Operation AgroDefend showcases practical SOC implementation skills aligned with 
 
 ---
 
-## 📎 Deliverables
+##  Deliverables
 
 - Network diagram
 - Firewall rule configuration
@@ -131,7 +131,7 @@ Operation AgroDefend showcases practical SOC implementation skills aligned with 
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 Operation AgroDefend validates the effectiveness of segmentation, centralized logging, and structured SOC processes in detecting and mitigating brute-force attacks within an enterprise network.
 

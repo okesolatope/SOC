@@ -136,3 +136,5 @@ Operation AgroDefend showcases practical SOC implementation skills aligned with 
 Operation AgroDefend validates the effectiveness of segmentation, centralized logging, and structured SOC processes in detecting and mitigating brute-force attacks within an enterprise network.
 
 This project reflects real-world defensive security practices and SOC operational readiness.
+
+[Read report](https://drive.google.com/file/d/1xKECSr66887ge9Lp7kN3JJqjFD2A0lRg/view?usp=sharing)
